@@ -1,16 +1,17 @@
-h1 {
+body, footer {
   font-family: Verdana;
+  color: white;
+}
+
+h1 {
   font-weight: Normal;
   font-size: 50px;
-  color: white;
   text-align: center;
 }
 
 h2 {
-  font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
-  color: white;
 }
 
 header, body {
@@ -24,7 +25,6 @@ header, body {
 }
 
 .gray-text {
-  font-family: Verdana;
   font-size: 21px;
   color:gray;
 }

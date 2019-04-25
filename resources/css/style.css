@@ -1,12 +1,13 @@
-body, footer {
+body {
   font-family: Verdana;
   color: white;
+  text-align: center;
+  background-color: black;
 }
 
 h1 {
   font-weight: Normal;
   font-size: 50px;
-  text-align: center;
 }
 
 h2 {
@@ -14,22 +15,17 @@ h2 {
   font-size: 42px;
 }
 
-header, body {
-  background-color: black;
-  text-align: center;
-}
-
 .links {
   color: aquamarine;
   font-size: 16px;
 }
 
-.gray-text {
+p {
+  color: Gray;
   font-size: 21px;
-  color:gray;
 }
 
-.copyright {
+.footer {
   color: gray;
   text-align: right;
 }
